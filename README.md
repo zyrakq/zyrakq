@@ -23,6 +23,7 @@
 </picture>
 
 ## Donate
-<a href="https://www.buymeacoffee.com/erritis"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=erritis&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-[![Buy me a coffee](bmc_qr.png)](https://www.buymeacoffee.com/erritis)
+<a href="https://www.buymeacoffee.com/erritis"><img src="bmc_qr.png" alt="Buy me a coffee" width="230" /></a>
+
+<a href="https://www.buymeacoffee.com/erritis"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=erritis&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
