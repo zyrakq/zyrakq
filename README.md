@@ -121,7 +121,7 @@ I'm a fullstack developer 👨‍💻 interested in:
 
 
 ### Support Me  
-<img src="https://getalby.com/p/erritis.png" align="left" height="" width="240" />  
-  
 
-<img src="bmc_qr.png" align="left" height="" width="230" />  
+[<img align="left" src="https://getalby.com/p/erritis.png" width="240">](https://getalby.com/erritis)
+
+[<img align="left" src="bmc_qr.png" width="230">](https://www.buymeacoffee.com/erritis)
