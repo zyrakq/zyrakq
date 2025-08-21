@@ -6,6 +6,8 @@ I'm a fullstack developer 👨‍💻 interested in:
 
 - 🚀 DevOps (Docker, k8s)
 
+- 🐧 Linux Systems (Arch Linux)
+
 - 🌐 Web Components & Microfrontends
 
 - ₿ Bitcoin & Decentralized Protocols
@@ -13,6 +15,8 @@ I'm a fullstack developer 👨‍💻 interested in:
 🚀 Currently working with Docker tooling to make complex deployments accessible. Since many don't use k8s, I adapt existing solutions and write Rust utilities to simplify interactions.
 
 🦀 Building everything possible in Rust - from deployment automation tools to OIDC and SSL integration utilities for Docker configs.
+
+🐧 Arch Linux enthusiast with strong Linux systems administration skills and custom dotfiles for rapid system setup.
 
 🌐 Exploring microfrontends and web components with lit.js, while keeping backend development in Rust.
 
