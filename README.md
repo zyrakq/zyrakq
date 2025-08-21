@@ -4,17 +4,19 @@ I'm a fullstack developer 👨‍💻 interested in:
 
 - 🦀 Rust
 
-- 💎 Dapps
+- 🚀 DevOps (Docker, k8s)
 
-- 🌐 Web development
+- 🌐 Web Components & Microfrontends
 
-🚀 Currently working on a React web project with Lightning Network payment integration.
+- ₿ Bitcoin & Decentralized Protocols
 
-👾 I'm familiar with Substrate and the Subsocial project.
+🚀 Currently working with Docker tooling to make complex deployments accessible. Since many don't use k8s, I adapt existing solutions and write Rust utilities to simplify interactions.
 
-🐳 Additionally, I dabble in DevOps and enjoy deploying various services on my own server.
+🦀 Building everything possible in Rust - from deployment automation tools to OIDC and SSL integration utilities for Docker configs.
 
-🌱 Currently, I'm studying Nostr and exploring the usage of OpenFaas to build a serverless architecture.
+🌐 Exploring microfrontends and web components with lit.js, while keeping backend development in Rust.
+
+🌱 Interested in decentralized protocols: Bitcoin layers, Nostr, Matrix, Radicle and other p2p solutions, preferably implemented in Rust.
 
 <br/>
 
@@ -54,18 +56,14 @@ I'm a fullstack developer 👨‍💻 interested in:
 ### Frontend
 
 <div align="center">
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+<a href="https://lit.dev/" target="_blank"><img style="margin: 10px" src="https://lit.dev/images/logo.svg" alt="Lit" height="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Web Components" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
