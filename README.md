@@ -8,6 +8,8 @@ I'm a fullstack developer 👨‍💻 interested in:
 
 - 🐧 Linux Systems (Arch Linux)
 
+- 🤖 AI/LLM Integration
+
 - 🌐 Web Components & Microfrontends
 
 - ₿ Bitcoin & Decentralized Protocols
@@ -17,6 +19,8 @@ I'm a fullstack developer 👨‍💻 interested in:
 🦀 Building everything possible in Rust - from deployment automation tools to OIDC and SSL integration utilities for Docker configs.
 
 🐧 Arch Linux enthusiast with strong Linux systems administration skills and custom dotfiles for rapid system setup.
+
+🤖 Experienced with AI development tools: using Cline with Claude, Grok, and open-source models. Self-hosted LiteLLM proxy for OpenRouter and LibreChat interface.
 
 🌐 Exploring microfrontends and web components with lit.js, while keeping backend development in Rust.
 
