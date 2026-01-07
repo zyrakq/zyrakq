@@ -20,11 +20,13 @@ I'm a fullstack developer 👨‍💻 interested in:
 
 🐧 Arch Linux enthusiast with strong Linux systems administration skills and custom dotfiles for rapid system setup.
 
-🤖 Experienced with AI development tools: using Cline with Claude, Grok, and open-source models. Self-hosted LiteLLM proxy for OpenRouter and LibreChat interface.
+🤖 Experienced with AI development tools: using KiloCode with Claude, Grok, and open-source models. Self-hosted Bifrost proxy for OpenRouter and Open-WebUI interface with n8n automation.
 
 🌐 Exploring microfrontends and web components with lit.js, while keeping backend development in Rust.
 
-🌱 Interested in decentralized protocols: Bitcoin layers, Nostr, Matrix, Radicle and other p2p solutions, preferably implemented in Rust.
+🌱 Interested in decentralized protocols: Bitcoin layers, Nostr, Radicle and other p2p solutions, preferably implemented in Rust.
+
+🖥️ Expanded stack with Incus for host management and container orchestration.
 
 <br/>
 
@@ -36,25 +38,26 @@ I'm a fullstack developer 👨‍💻 interested in:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zyrakq&theme=dark"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=zyrakq&show_icons=true&theme=nord"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zyrakq"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=zyrakq&show_icons=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyrakq" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zyrakq&show_icons=true&theme=default" />
 </picture>
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zyrakq&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zyrakq&layout=compact&theme=nord"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zyrakq&show_icons=true"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zyrakq&layout=compact&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=zyrakq&show_icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zyrakq&layout=compact&theme=default" />
 </picture>
 
 <br/>
@@ -111,7 +114,5 @@ I'm a fullstack developer 👨‍💻 interested in:
 <br/>
 
 ### Support Me
-
-[<img align="left" src="https://getalby.com/p/zeritiq.png" width="240">](https://getalby.com/p/zeritiq)
 
 [<img align="left" src="bmc_qr.png" width="230">](https://www.buymeacoffee.com/zyrakq)
